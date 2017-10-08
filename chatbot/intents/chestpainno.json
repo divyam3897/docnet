@@ -1,0 +1,43 @@
+{
+  "id": "3c21cc34-9820-4025-a518-2ef33d66dbf1",
+  "name": "chestpainno",
+  "auto": true,
+  "contexts": [
+    "heartdisease",
+    "chestpainno"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "chestpainno",
+      "affectedContexts": [
+        {
+          "name": "legpainyes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "legpainno",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do you get pain in leg on walking?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507427635,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "f57c1477-968b-4605-a504-6dc1f5612f09",
+  "name": "medicine for diarrhoea",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "medicine",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e6499ec3-f62e-42f1-bba8-abd9335a929b",
+          "required": true,
+          "dataType": "@medicine",
+          "name": "medicine",
+          "value": "$medicine",
+          "isList": false
+        },
+        {
+          "id": "9a852896-2d2f-45b2-bf11-b6628098a05f",
+          "required": true,
+          "dataType": "@diarrhoea",
+          "name": "diarrhoea",
+          "value": "$diarrhoea",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "BOOTS DIARRHOEA RELIEF 2MG CAPSULES"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507431271,
+  "fallbackIntent": false,
+  "events": []
+}

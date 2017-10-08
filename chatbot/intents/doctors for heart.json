@@ -1,0 +1,51 @@
+{
+  "id": "2f8981e3-a7d4-49ca-b238-6f137762c3e0",
+  "name": "doctors for heart",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "doctors",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b0fc3cf5-1309-43ee-a77b-66e8213c3abb",
+          "required": true,
+          "dataType": "@doctor",
+          "name": "doctor",
+          "value": "$doctor",
+          "isList": false
+        },
+        {
+          "id": "e433cdda-7ad6-4dfe-9c77-83c3b1d59c46",
+          "required": true,
+          "dataType": "@heart",
+          "name": "heart",
+          "value": "$heart",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "https://www.credihealth.com/hospital/medanta-the-medicity-gurgaon/overview",
+            "https://www.credihealth.com/hospital/fortis-escorts-heart-institute-okhla-road/overview",
+            "https://www.credihealth.com/hospital/indraprastha-apollo-hospitals-sarita-vihar/overview",
+            "https://www.credihealth.com/hospital/artemis-hospital-gurgaon/overview"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507432106,
+  "fallbackIntent": false,
+  "events": []
+}

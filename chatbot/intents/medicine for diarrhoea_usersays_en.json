@@ -1,0 +1,86 @@
+[
+  {
+    "id": "53af0786-a4a3-44c1-994b-8cdf0321af8f",
+    "data": [
+      {
+        "text": "can you suggest ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "medicine",
+        "meta": "@medicine",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diarrhoea",
+        "meta": "@diarrhoea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d86328f-1e1a-489f-8921-a30be0e7fc4a",
+    "data": [
+      {
+        "text": "can you tell us ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "medicine",
+        "meta": "@medicine",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diarrhoea",
+        "meta": "@diarrhoea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "139eab3c-d542-4104-bd2a-3eba98884f5c",
+    "data": [
+      {
+        "text": "suggest ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "medicine",
+        "meta": "@medicine",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhoea",
+        "alias": "diarrhoea",
+        "meta": "@diarrhoea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

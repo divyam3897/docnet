@@ -1,0 +1,15 @@
+[
+  {
+    "value": "temperature",
+    "synonyms": [
+      "temperature",
+      "fever"
+    ]
+  },
+  {
+    "value": "102 fever",
+    "synonyms": [
+      "102 fever"
+    ]
+  }
+]

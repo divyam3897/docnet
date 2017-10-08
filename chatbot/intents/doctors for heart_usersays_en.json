@@ -1,0 +1,86 @@
+[
+  {
+    "id": "60bfda4a-44e3-4ba2-8e08-1d799f7be073",
+    "data": [
+      {
+        "text": "can you tell best ",
+        "userDefined": false
+      },
+      {
+        "text": "doctors",
+        "alias": "doctor",
+        "meta": "@doctor",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "heart",
+        "alias": "heart",
+        "meta": "@heart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ffc8d45-7944-44b1-b379-f1443726a325",
+    "data": [
+      {
+        "text": "can you suggest best ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor",
+        "alias": "doctor",
+        "meta": "@doctor",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "heart",
+        "alias": "heart",
+        "meta": "@heart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "416e4932-018d-4e2d-aaa2-f7e9df127594",
+    "data": [
+      {
+        "text": "suggest best ",
+        "userDefined": false
+      },
+      {
+        "text": "doctor",
+        "alias": "doctor",
+        "meta": "@doctor",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "heart",
+        "alias": "heart",
+        "meta": "@heart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

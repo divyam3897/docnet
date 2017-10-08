@@ -1,0 +1,38 @@
+{
+  "id": "3a134873-7506-41af-89d9-cefb87b7227b",
+  "name": "i am suffering from cold",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cold",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "67c21871-a544-44ee-813c-c2c6d186ae4b",
+          "required": true,
+          "dataType": "@cold",
+          "name": "cold",
+          "value": "$cold",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You may take the medicine acetaminophen"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507393363,
+  "fallbackIntent": false,
+  "events": []
+}

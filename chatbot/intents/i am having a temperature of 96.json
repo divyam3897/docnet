@@ -1,0 +1,45 @@
+{
+  "id": "10be3e4e-ad48-4692-ac7a-5ff27ac56c03",
+  "name": "i am having a temperature of 96",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "fever",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "df8d9a35-b571-469f-992c-8c9012235e5f",
+          "required": true,
+          "dataType": "@fever",
+          "name": "fever",
+          "value": "$fever",
+          "isList": false
+        },
+        {
+          "id": "13c049cb-d707-4812-98ae-e8ff662d5991",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You have a low body temperature."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507385788,
+  "fallbackIntent": false,
+  "events": []
+}

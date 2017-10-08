@@ -1,0 +1,29 @@
+{
+  "id": "f6c4aa67-41e1-4d4a-9065-20ae3b01be43",
+  "name": "stillyes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "stillyes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The person has severe chest pain. You must consult a doctor as soon as possible."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507427308,
+  "fallbackIntent": false,
+  "events": []
+}

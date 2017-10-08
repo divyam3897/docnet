@@ -1,0 +1,56 @@
+[
+  {
+    "id": "417691a8-81d3-4752-b0e2-2e4ddc1018eb",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "alias": "cough",
+        "meta": "@cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507387101
+  },
+  {
+    "id": "de0fcc9b-6b2f-46a4-bfbc-e12217652524",
+    "data": [
+      {
+        "text": "i am having mild ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "alias": "cough",
+        "meta": "@cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1681bf5-9574-458e-bbca-21fda8fc073c",
+    "data": [
+      {
+        "text": "i am suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "alias": "cough",
+        "meta": "@cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

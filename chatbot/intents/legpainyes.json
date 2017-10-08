@@ -1,0 +1,30 @@
+{
+  "id": "3c4da9d1-fd40-43d4-aade-f52ad7a9ab7c",
+  "name": "legpainyes",
+  "auto": true,
+  "contexts": [
+    "legpainyes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You have the problem of chest pain.  Kindly visit the doctor soon."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507427530,
+  "fallbackIntent": false,
+  "events": []
+}

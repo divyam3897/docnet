@@ -1,0 +1,45 @@
+{
+  "id": "e373ffe5-da40-436b-8c0d-7837238855d4",
+  "name": "i am having a temperature of 104",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "fever",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a9144480-f370-477e-8c3c-142ef1fa3efd",
+          "required": true,
+          "dataType": "@fever",
+          "name": "fever",
+          "value": "$fever",
+          "isList": false
+        },
+        {
+          "id": "31543491-fbb2-431a-b077-86726a19934e",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You have a high fever. Visit a doctor as soon as possible.  You can take crocin medicine."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507385569,
+  "fallbackIntent": false,
+  "events": []
+}

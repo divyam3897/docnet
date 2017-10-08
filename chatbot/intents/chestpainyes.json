@@ -1,0 +1,42 @@
+{
+  "id": "51820348-790a-4aba-ad49-d0f7d4c2c788",
+  "name": "chestpainyes",
+  "auto": true,
+  "contexts": [
+    "chestpainyes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "chestpainyes",
+      "affectedContexts": [
+        {
+          "name": "ordinaryyes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "chestpainno",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do you get it when you walk at ordinary pace?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507427713,
+  "fallbackIntent": false,
+  "events": []
+}

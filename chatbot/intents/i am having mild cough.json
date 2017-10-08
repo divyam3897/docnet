@@ -1,0 +1,38 @@
+{
+  "id": "d94f061c-2fb8-4c44-a552-dace15ee93f2",
+  "name": "i am having mild cough",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cough",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e7999df6-4f05-4f44-b646-44e73f3526ab",
+          "required": true,
+          "dataType": "@cough",
+          "name": "cough",
+          "value": "$cough",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You should gargle with hot water 2-3 times a day for few days and may take  the medicine benadryl."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507387431,
+  "fallbackIntent": false,
+  "events": []
+}

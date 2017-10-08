@@ -1,0 +1,45 @@
+{
+  "id": "f9dbc665-c1e5-4755-941a-8a0c4ec3be97",
+  "name": "i have a temperature of 99",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "temperature",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "75d36a6f-124b-4023-a7fb-6320a078e4eb",
+          "required": true,
+          "dataType": "@fever",
+          "name": "fever",
+          "value": "$fever",
+          "isList": false
+        },
+        {
+          "id": "5e04767d-4055-4863-9818-f9a63016b4aa",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "It is normal body temperature. You don\u0027t need to worry."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507385932,
+  "fallbackIntent": false,
+  "events": []
+}

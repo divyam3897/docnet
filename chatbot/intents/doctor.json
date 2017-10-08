@@ -1,0 +1,51 @@
+{
+  "id": "a621190d-3b80-4552-b0ac-7d42f4410b5b",
+  "name": "doctor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "medicine",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e19ff350-a257-4533-8d45-15ed95f93fbd",
+          "required": true,
+          "dataType": "@doctor",
+          "name": "doctor",
+          "value": "$doctor",
+          "isList": false
+        },
+        {
+          "id": "b536bed7-f99a-49d5-a490-a255f19f6dee",
+          "required": true,
+          "dataType": "@cancer",
+          "name": "cancer",
+          "value": "$cancer",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "https://www.credihealth.com/hospital/artemis-hospital-gurgaon/overview",
+            "https://www.credihealth.com/hospital/artemis-hospital-gurgaon/overview",
+            "https://www.credihealth.com/hospital/artemis-hospital-gurgaon/overview",
+            "https://www.credihealth.com/hospital/artemis-hospital-gurgaon/overview"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507432985,
+  "fallbackIntent": false,
+  "events": []
+}

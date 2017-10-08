@@ -1,0 +1,114 @@
+[
+  {
+    "id": "f1168709-3ab7-4a14-a8c7-60103a2774c1",
+    "data": [
+      {
+        "text": "suggest ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "medicine",
+        "meta": "@medicine",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "headache",
+        "meta": "@headache",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1507430657
+  },
+  {
+    "id": "454e35f6-6ad8-420a-a605-92982adb50b9",
+    "data": [
+      {
+        "text": "Can you suggest ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "medicine",
+        "meta": "@medicine",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "headache",
+        "meta": "@headache",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507430657
+  },
+  {
+    "id": "cb99e6c6-8264-4f7f-bb10-6c89ec5f2ce0",
+    "data": [
+      {
+        "text": "Can you tell me the best ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "medicine",
+        "meta": "@medicine",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "headache",
+        "meta": "@headache",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507430657
+  },
+  {
+    "id": "e983ccf9-fa3b-4257-8276-95de0b0b247a",
+    "data": [
+      {
+        "text": "Suggest me a ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine",
+        "alias": "medicine",
+        "meta": "@medicine",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "headache",
+        "alias": "headache",
+        "meta": "@headache",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507430657
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "74b370c8-90ef-4e65-9346-574b6a3776ae",
+    "data": [
+      {
+        "text": "i have mild ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "cold",
+        "meta": "@cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507393363
+  },
+  {
+    "id": "ecd36e5e-3916-4cd2-b69c-ce9bbf121d70",
+    "data": [
+      {
+        "text": "i am suffering from ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "alias": "cold",
+        "meta": "@cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1507393363
+  }
+]

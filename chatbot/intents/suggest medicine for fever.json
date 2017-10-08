@@ -1,0 +1,48 @@
+{
+  "id": "4632b053-714f-4f5a-9668-c030c0bed353",
+  "name": "suggest medicine for fever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "227f22d9-fdd9-4e6e-a9e0-2f1f8d2cee8a",
+          "required": true,
+          "dataType": "@medicine",
+          "name": "medicine",
+          "value": "$medicine",
+          "isList": false
+        },
+        {
+          "id": "297d75ed-b8f0-410c-b33c-7f981e90cd07",
+          "required": true,
+          "dataType": "@fever",
+          "name": "fever",
+          "value": "$fever",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "cetaminophen",
+            "tylenol"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507430992844,
+  "fallbackIntent": false,
+  "events": []
+}

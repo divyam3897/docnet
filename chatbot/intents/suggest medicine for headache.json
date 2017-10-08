@@ -1,0 +1,50 @@
+{
+  "id": "7e3c53cb-58e3-4a0e-903f-64734b56f102",
+  "name": "suggest medicine for headache",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "medicine",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5debe140-500c-4d02-9bc4-182fbbe8d5de",
+          "required": true,
+          "dataType": "@headache",
+          "name": "headache",
+          "value": "$headache",
+          "isList": false
+        },
+        {
+          "id": "5af53af5-cd79-4b1f-842e-52d33b5440b7",
+          "required": true,
+          "dataType": "@medicine",
+          "name": "medicine",
+          "value": "$medicine",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "fioricet",
+            "ibuprofen",
+            "advil"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507430657,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,42 @@
+{
+  "id": "b2172a7c-de67-4a83-84e4-c9ca65604d4a",
+  "name": "legpainno",
+  "auto": true,
+  "contexts": [
+    "legpainno"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "legpainno",
+      "affectedContexts": [
+        {
+          "name": "stillyes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "stillno",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Does this pain begin when standing still or sitting?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507427135,
+  "fallbackIntent": false,
+  "events": []
+}

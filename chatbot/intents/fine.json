@@ -1,0 +1,30 @@
+{
+  "id": "a19a839b-6801-48a6-b031-46b36cd136e9",
+  "name": "fine",
+  "auto": true,
+  "contexts": [
+    "noChestPain"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "oh no see a doctor"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507404505462,
+  "fallbackIntent": false,
+  "events": []
+}

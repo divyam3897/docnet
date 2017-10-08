@@ -1,0 +1,37 @@
+{
+  "id": "db4f5fcc-fed8-46ce-a9ce-871a57bac07a",
+  "name": "ordinaryyes",
+  "auto": true,
+  "contexts": [
+    "ordinaryyes"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ordinaryyes",
+      "affectedContexts": [
+        {
+          "name": "ordinaryyes",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The person has chest pain. You must visit a doctor."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507427457,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "30f7d5d6-581b-48e9-aa55-e081471335bc",
+  "name": "heartdisease",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "chestDiscomfort",
+      "affectedContexts": [
+        {
+          "name": "chestpainyes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "chestpainno",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do you have pain in chest?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1507418321,
+  "fallbackIntent": false,
+  "events": []
+}

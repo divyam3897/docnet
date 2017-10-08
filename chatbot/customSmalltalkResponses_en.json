@@ -1,0 +1,15 @@
+[
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "hi",
+      "holla"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "i am good"
+    ]
+  }
+]

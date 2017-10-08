@@ -1,0 +1,164 @@
+[
+  {
+    "id": "ef8403fb-c0ee-4b7d-94c4-78c1f9e5911c",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "98.6",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "alias": "fever",
+        "meta": "@fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507385932
+  },
+  {
+    "id": "48e19daa-5a2d-44d9-a914-acf28d48523d",
+    "data": [
+      {
+        "text": "i have ",
+        "userDefined": false
+      },
+      {
+        "text": "97",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "alias": "fever",
+        "meta": "@fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507385932
+  },
+  {
+    "id": "a9a63df1-69a6-4d27-877a-853e0bf4bde2",
+    "data": [
+      {
+        "text": "i am having ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "alias": "fever",
+        "meta": "@fever",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "98.3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507385932
+  },
+  {
+    "id": "78c2437a-9ddb-423c-a2fd-5c3ac269d688",
+    "data": [
+      {
+        "text": "i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "alias": "fever",
+        "meta": "@fever",
+        "userDefined": true
+      },
+      {
+        "text": " of 99",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1507384034
+  },
+  {
+    "id": "db81e3ee-7971-45e0-bf4b-b06ba7805bc0",
+    "data": [
+      {
+        "text": "i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "alias": "fever",
+        "meta": "@fever",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "97",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7263a76b-2a50-481a-b207-73ee51f5077c",
+    "data": [
+      {
+        "text": "i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "temperature",
+        "alias": "fever",
+        "meta": "@fever",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "98",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
