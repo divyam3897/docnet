@@ -8,7 +8,7 @@ click==6.7
 clint==0.5.1
 cycler==0.10.0
 decorator==4.0.11
-Django==1.11.2
+Django==1.11.29
 django-bootstrap-form==3.3
 entrypoints==0.2.2
 floyd-cli==0.10.15
